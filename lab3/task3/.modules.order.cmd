@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab3/task3/modules.order := {   echo /home/zinkt/Documents/codes/os_lab/lab3/task3/task3.ko; :; } | awk '!x[$$0]++' - > /home/zinkt/Documents/codes/os_lab/lab3/task3/modules.order

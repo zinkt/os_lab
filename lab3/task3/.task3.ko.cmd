@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab3/task3/task3.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id=sha1  -T ./scripts/module-common.lds -o /home/zinkt/Documents/codes/os_lab/lab3/task3/task3.ko /home/zinkt/Documents/codes/os_lab/lab3/task3/task3.o /home/zinkt/Documents/codes/os_lab/lab3/task3/task3.mod.o;  true
