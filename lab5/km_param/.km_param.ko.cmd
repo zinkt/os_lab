@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab5/km_param/km_param.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id=sha1  -T ./scripts/module-common.lds -o /home/zinkt/Documents/codes/os_lab/lab5/km_param/km_param.ko /home/zinkt/Documents/codes/os_lab/lab5/km_param/km_param.o /home/zinkt/Documents/codes/os_lab/lab5/km_param/km_param.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab5/km_param/modules.order := {   echo /home/zinkt/Documents/codes/os_lab/lab5/km_param/km_param.ko; :; } | awk '!x[$$0]++' - > /home/zinkt/Documents/codes/os_lab/lab5/km_param/modules.order

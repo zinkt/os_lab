@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab5/km_param/km_param.mod := { echo  /home/zinkt/Documents/codes/os_lab/lab5/km_param/km_param.o;  echo; } > /home/zinkt/Documents/codes/os_lab/lab5/km_param/km_param.mod

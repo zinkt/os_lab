@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab5/km_param/Module.symvers := sed 's/ko$$/o/' /home/zinkt/Documents/codes/os_lab/lab5/km_param/modules.order | scripts/mod/modpost -m -a   -o /home/zinkt/Documents/codes/os_lab/lab5/km_param/Module.symvers -e -i Module.symvers   -T -

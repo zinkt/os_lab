@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab5/cfs/modules.order := {   echo /home/zinkt/Documents/codes/os_lab/lab5/cfs/cfs.ko; :; } | awk '!x[$$0]++' - > /home/zinkt/Documents/codes/os_lab/lab5/cfs/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab5/cfs/cfs.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id=sha1  -T ./scripts/module-common.lds -o /home/zinkt/Documents/codes/os_lab/lab5/cfs/cfs.ko /home/zinkt/Documents/codes/os_lab/lab5/cfs/cfs.o /home/zinkt/Documents/codes/os_lab/lab5/cfs/cfs.mod.o;  true
