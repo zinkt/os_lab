@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab8/cr3/modules.order := {   echo /home/zinkt/Documents/codes/os_lab/lab8/cr3/get_cr3.ko; :; } | awk '!x[$$0]++' - > /home/zinkt/Documents/codes/os_lab/lab8/cr3/modules.order

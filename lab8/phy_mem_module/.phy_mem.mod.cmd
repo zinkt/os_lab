@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab8/phy_mem_module/phy_mem.mod := { echo  /home/zinkt/Documents/codes/os_lab/lab8/phy_mem_module/phy_mem.o;  echo; } > /home/zinkt/Documents/codes/os_lab/lab8/phy_mem_module/phy_mem.mod

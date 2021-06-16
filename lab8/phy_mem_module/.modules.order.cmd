@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab8/phy_mem_module/modules.order := {   echo /home/zinkt/Documents/codes/os_lab/lab8/phy_mem_module/phy_mem.ko; :; } | awk '!x[$$0]++' - > /home/zinkt/Documents/codes/os_lab/lab8/phy_mem_module/modules.order

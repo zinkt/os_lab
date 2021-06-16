@@ -1,0 +1,1 @@
+cmd_/home/zinkt/Documents/codes/os_lab/lab8/phy_mem_module/phy_mem.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id=sha1  -T ./scripts/module-common.lds -o /home/zinkt/Documents/codes/os_lab/lab8/phy_mem_module/phy_mem.ko /home/zinkt/Documents/codes/os_lab/lab8/phy_mem_module/phy_mem.o /home/zinkt/Documents/codes/os_lab/lab8/phy_mem_module/phy_mem.mod.o;  true
